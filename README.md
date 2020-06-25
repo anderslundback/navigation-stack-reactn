@@ -1,1 +1,1 @@
-Barebones navigation stack using React Nativagion 5 with TypeScript.
+Barebones navigation stack using React Navigation 5 with TypeScript.
